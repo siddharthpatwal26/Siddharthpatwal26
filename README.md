@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Siddharth Patwal, an MCA graduate from India and a passionate developer.
+I'm Siddharth Patwal, an MCA graduate and a passionate developer.
 
 I build practical projects focused on **Python, Data Analytics, Backend Development, and AI/ML**.
 
